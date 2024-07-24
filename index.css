@@ -9,8 +9,8 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  width: 100vw;
-  height: 100vh;
+  width: 90vw;
+  height: 90vh;
   @apply flex flex-col items-center;
   @apply bg-zinc-900 text-gray-50;
 }
